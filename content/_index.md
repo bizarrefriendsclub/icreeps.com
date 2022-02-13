@@ -1,8 +1,8 @@
 ---
-title: "Hugo Grayscale Theme"
+title: "Internet Creeps"
 date: 2018-09-09T00:00:00-00:00
-copyright: "Your Website"
-description: "A port of the Grayscale theme to Hugo"
+copyright: ""
+description: "The coolest shit ever"
 
 menu:
     - {url: "https://startbootstrap.com/themes/grayscale/", name: "Original"}

@@ -1,9 +1,9 @@
 ---
 title: "Header"
 weight: 1
-improvecontrast: true
+improvecontrast: false
 ---
 
-# Grayscale
+# Internet Creeps
 
-A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap.
+Arriving to the Internet Computer Q2 2022

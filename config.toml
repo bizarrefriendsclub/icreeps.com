@@ -1,7 +1,7 @@
-baseURL = "http://example.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
-theme = "hugograyscale"
+theme = "hugograyscale-master"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
