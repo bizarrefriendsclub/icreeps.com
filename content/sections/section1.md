@@ -4,7 +4,7 @@ weight: 2
 improvecontrast: true
 ---
 # About
-Internet Creeps is a collection of 222 NFT's exclusively on the Internet Computer. Aimed at differentiating from the standard avatar NFT's, ICreeps are truly distinct from one another. Featuring obscure digital art, ICreeps emphasizes on transparency and organic growth/community. Each NFT doubles as exclusive access for future collections which will be airdropped semi-annually. Giving back is very important to us, which is why 10% of all proceeds go to MAPS in order to fund research on the use of psychedelics for mental health. The original 222 Internet Creeps will have increased rewards as the project grows and future collections release. Join the Internet Creep family and be apart of our exciting journey through the metaverse!
+Internet Creeps is a collection of 222 NFTs exclusively on the Internet Computer. Aimed at differentiating from the standard avatar NFT's, Internet Creeps are truly distinct from one another. Featuring obscure digital art, ICreeps emphasizes on transparency and organic growth/community. Each NFT doubles as exclusive access to future collections, which will be airdropped semi-annually. Giving back is very important to us, which is why 10% of all proceeds go to MAPS in order to fund research on the use of psychedelics for mental health. The original 222 Internet Creeps will have increased rewards as the project grows and future collections release. Join the Internet Creep family and be a part of our exciting journey through the metaverse!
 # Roadmap
 ## *Q1 2022*
 -Website Launch\
@@ -12,7 +12,7 @@ Internet Creeps is a collection of 222 NFT's exclusively on the Internet Compute
 -Counsel Members Selected\
 -Discord Launch
 ## *Q2 2022*
--Series 1 collection drops!\
+-Series 1 collection drops\
 -Establish DAO\
 -Setup Community Wallet
 ## *Q3 2022 TBA*

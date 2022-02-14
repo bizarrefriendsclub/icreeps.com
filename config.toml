@@ -1,17 +1,17 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Grayscale Theme"
+title = "Internet Creeps"
 theme = "hugograyscale-master"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
+    description = "Internet Creeps is a collection of 222 NFTs exclusively on the Internet Computer."
 
 [Author]
-    name = "RunningStream"
-    email = "dco@runningstream.net"
+    name = "InternetCreeps"
+    email = "bizarrefriendsclub@gmail.com"
 
 [Social]
     twitter = "stream_running"
