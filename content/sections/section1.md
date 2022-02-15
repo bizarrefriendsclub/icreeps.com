@@ -8,17 +8,15 @@ improvecontrast: true
 # Roadmap
 ## *Q1 2022*
 Website Launch\
-Entrepot Application\
 Counsel Members Selected\
 Discord Launch
 ## *Q2 2022*
-Series 1 collection drops\
+Series 1 collection release!\
 Establish DAO\
 Setup Community Wallet
 ## *Q3 2022 TBA*...
 # In a Nutshell
 Captivating Digital Art\
-Dedicated Team of Developers/Creatives\
 Exclusive Semi-Annual Rewards\
 Community Driven Initiatives\
 Aesthetic-based Value (not traits)\
