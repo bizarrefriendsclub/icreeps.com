@@ -27,5 +27,5 @@ Quality > Quantity
 {{< socialhandles >}}
     {{< twitter user="internet_creeps" >}}
 {{< /socialhandles >}}
-## [distrikt](https://distrikt.app/u/internet_creeps)
+
 ## *Discord Coming Soon...*
