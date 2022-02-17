@@ -8,7 +8,7 @@ Internet Creeps is a collection of 222 NFTs on the Internet Computer. Featuring 
 # Roadmap
 ## *Q1 2022*
 Website Launch to IC\
-Counsel Members Selected\
+Art Reveal!\
 Discord Launch
 ## *Q2 2022*
 Collection Launch!\
@@ -22,10 +22,10 @@ Community Driven Initiatives\
 Aesthetic-based Value (not traits)\
 Organic Community & Culture\
 Quality > Quantity 
-### View the Latest Sneak Peeks on Twitter!  
+# Art Reveal 2/22
 
 {{< socialhandles >}}
     {{< twitter user="internet_creeps" >}}
 {{< /socialhandles >}}
-
+## [distrikt](https://distrikt.app/u/internet_creeps)
 ## *Discord Coming Soon...*

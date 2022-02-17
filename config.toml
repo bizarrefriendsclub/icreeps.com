@@ -11,7 +11,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [Author]
     name = "InternetCreeps"
-    email = "bizarrefriendsclub@gmail.com"
+    email = ""
 
 [Social]
     twitter = "internet_creeps"
+    distrikt = "internet_creeps"
