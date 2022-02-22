@@ -4,7 +4,7 @@ weight: 2
 improvecontrast: true
 ---
 # About
-Internet Creeps is a collection of 222 NFTs on the Internet Computer. Featuring captivating generative art, each NFT doubles as exclusive access to future collections. These collections along with other rewards will be airdropped semi-annually to holders. Giving back is very important to us, which is why 10% of all proceeds go to [MAPS](https://maps.org) in order to fund research on the use of psychedelics for mental health. Join the Internet Creep family and be a part of our exciting journey through the metaverse!
+Internet Creeps is a collection of 222 story-based NFTs on the Internet Computer. Each holder will have the option to create a short story about their NFT with a chance at winning a large prize. Featuring captivating generative art and 1:1 characters, each NFT also doubles as exclusive access to future collections. These collections will be released semi-annually to holders only. Giving back is very important to us, which is why 10% of all proceeds go to [MAPS](https://maps.org) in order to fund research on the use of psychedelics for mental health. Join the Internet Creep family and be a part of our exciting journey through the metaverse!
 # Roadmap
 ## *Q1 2022*
 Website Launch to IC\
@@ -14,10 +14,12 @@ Discord Launch
 Collection Launch!\
 Establish DAO\
 Setup Community Wallet
-## *Q3 2022 TBA*...
+## *Q3 2022 TBA*
 # In a Nutshell
+Short-Story Competition\
 Captivating Generative Art\
-Exclusive Semi-Annual Rewards\
+1:1 Characters\
+Exclusive Access to Future Collections\
 Community Driven Initiatives\
 Aesthetic-based Value (not traits)\
 Organic Community & Culture\
