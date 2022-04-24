@@ -4,7 +4,7 @@ weight: 2
 improvecontrast: true
 ---
 # About
-Internet Creeps is a collection of 222 NFTs on the Internet Computer. Featuring captivating generative art and 1:1 characters, each NFT doubles as exclusive access to future collections. Value will be brought to holders in the form of community driven publications and product launches. Join the Internet Creep family and be a part of our exciting journey through the metaverse!
+Internet Creeps is a collection of 222 NFTs on the Internet Computer. Releasing exclusively through Entrepot, the collection features captivating generative art and 1:1 characters. Value will be brought to holders in the form of community driven publications and product launches. Join the Internet Creep family and be a part of our exciting journey through the metaverse!
 # Roadmap  
 
 ## PHASE 1
@@ -28,7 +28,7 @@ Internet Creeps is a collection of 222 NFTs on the Internet Computer. Featuring 
 # In a Nutshell
  Captivating Generative Art\
  1:1 Characters\
- Exclusive Access to Future Collections\
+ Airdrops from Future Collections\
  Community Driven Initiatives\
  Aesthetic-based Value (not traits)
 

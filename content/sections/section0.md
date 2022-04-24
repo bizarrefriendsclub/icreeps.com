@@ -6,4 +6,4 @@ improvecontrast: false
 
 # Internet Creeps
 
-Arriving to the Internet Computer Q2 2022
+Arriving to the Internet Computer May 5th 2022 on Entrepot
