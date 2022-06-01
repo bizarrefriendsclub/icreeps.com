@@ -4,7 +4,7 @@ weight: 2
 improvecontrast: true
 ---
 # About
-Internet Creeps is a collection of 222 NFTs on the Internet Computer. Releasing exclusively through Entrepot, the collection features captivating generative art and 1:1 characters. Value will be brought to holders in the form of community driven publications and product launches. Join the Internet Creep family and be a part of our exciting journey through the IC!
+Internet Creeps is a collection of 222 NFTs on the Internet Computer. Available now on [Entrepot](https://entrepot.app/), the collection features captivating generative art and 1:1 characters. Value will be brought to holders in the form of community driven publications and product launches. Join the Internet Creeps family and be a part of  journey through the IC! [Get yours today at Entrepot](https://entrepot.app/marketplace/internet-creeps)
 # Roadmap  
 
 ## PHASE 1
@@ -32,8 +32,10 @@ Internet Creeps is a collection of 222 NFTs on the Internet Computer. Releasing 
  Community Driven Initiatives\
  Aesthetic-based Value (not traits)
 
-## Check out the latest sneek peaks on Twitter!
+# [Discord](http://discord.gg/HhBkxFdVKX)
 {{< socialhandles >}}
     {{< twitter user="internet_creeps" >}}
 {{< /socialhandles >}}
+
+ DMail = icreeps@dmail.ai
 

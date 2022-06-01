@@ -42,9 +42,7 @@ h3{
   letter-spacing: 1px;
   text-align: justify;
 }
-h4{
-  background-color: #4e4098;
-}
+h4,
 h5,
 h6 {
   font-family: 'luxirbiitalic';
@@ -152,10 +150,9 @@ header {
   text-align: center;
   color: #E7DB74;
   background: url("../img/section0-bg.png") no-repeat bottom center scroll;
-  background-color: none;
-  background-size: contain;
+  background-color: black;
+  background-size: cover;
   padding-bottom: 50px;
-  justify-content: center
 }
 
 #intro-body {
@@ -197,13 +194,13 @@ header p {
   color: #E7DB74;
   border: 2px solid #E7DB74;
   border-radius: 100% !important;
-  background: #4e4098;
+  background: transparent;
 }
 
 .btn-circle:focus, .btn-circle:hover {
   color: #E7DB74;
   outline: none;
-  background: none;
+  background: rgba(255, 255, 255, 0.1);
 }
 .section-2 {
   color: #E7DB74;
@@ -260,14 +257,14 @@ header p {
 .btn-default {
   color: #E7DB74;
   border: 1px solid #E7DB74;
-  background-color: #4e4098;
+  background-color: transparent;
 }
 
 .btn-default:focus, .btn-default:hover {
   color: black;
   border: 1px solid #E7DB74;
   outline: none;
-  background-color: #4e4098;
+  background-color: #E7DB74;
 }
 
 ul.banner-social-buttons {

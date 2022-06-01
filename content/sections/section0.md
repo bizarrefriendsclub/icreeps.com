@@ -1,9 +1,9 @@
 ---
 title: "Header"
 weight: 1
-improvecontrast: false
+improvecontrast: True
 ---
 
 # Internet Creeps
 
-Arriving to the Internet Computer May 5th 2022 on Entrepot
+#### [Available now on Entrepot](https://entrepot.app/marketplace/internet-creeps)
